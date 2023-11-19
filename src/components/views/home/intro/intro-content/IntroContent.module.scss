@@ -1,0 +1,15 @@
+.introContent {
+  position: sticky;
+  top: 120px;
+  .title {
+    h2 {
+      font-size: 28px;
+      font-weight: bold;
+    }
+  }
+  .desc {
+    p {
+      color: gray;
+    }
+  }
+}

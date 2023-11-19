@@ -1,0 +1,16 @@
+.commentItem {
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.07);
+  border-radius: 6px;
+  margin-bottom: 20px;
+  h4 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+  }
+  p {
+    color: gray;
+    margin: 0;
+    font-size: 14px;
+  }
+}
